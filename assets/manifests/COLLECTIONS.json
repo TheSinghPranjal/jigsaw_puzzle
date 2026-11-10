@@ -1,0 +1,102 @@
+[
+ {
+  "id": "palm_sunday",
+  "order": 1,
+  "title": "Palm Sunday and Jerusalem",
+  "description": "Palm branches, stone streets and the ancient city in festive welcome.",
+  "firstLevel": 1,
+  "lastLevel": 50,
+  "cover": "assets/thumbnails/collections/palm_sunday.webp",
+  "totalPuzzles": 50
+ },
+ {
+  "id": "last_supper",
+  "order": 2,
+  "title": "The Last Supper and Biblical Moments",
+  "description": "Lamplit rooms, shared bread and quiet gatherings of the biblical era.",
+  "firstLevel": 51,
+  "lastLevel": 100,
+  "cover": "assets/thumbnails/collections/last_supper.webp",
+  "totalPuzzles": 50
+ },
+ {
+  "id": "gethsemane",
+  "order": 3,
+  "title": "Gethsemane Garden and Prayer",
+  "description": "Ancient olive groves and peaceful paths under moon and dawn.",
+  "firstLevel": 101,
+  "lastLevel": 150,
+  "cover": "assets/thumbnails/collections/gethsemane.webp",
+  "totalPuzzles": 50
+ },
+ {
+  "id": "passion",
+  "order": 4,
+  "title": "The Passion and the Cross",
+  "description": "Reverent, landscape-led scenes of the cross against wide skies.",
+  "firstLevel": 151,
+  "lastLevel": 200,
+  "cover": "assets/thumbnails/collections/passion.webp",
+  "totalPuzzles": 50
+ },
+ {
+  "id": "resurrection",
+  "order": 5,
+  "title": "Resurrection and the Empty Tomb",
+  "description": "Morning light, a stone rolled away and gardens of renewal.",
+  "firstLevel": 201,
+  "lastLevel": 250,
+  "cover": "assets/thumbnails/collections/resurrection.webp",
+  "totalPuzzles": 50
+ },
+ {
+  "id": "angels",
+  "order": 6,
+  "title": "Angels, Holy Spirit and Revelation",
+  "description": "Heavenly messengers, white doves and luminous horizons.",
+  "firstLevel": 251,
+  "lastLevel": 300,
+  "cover": "assets/thumbnails/collections/angels.webp",
+  "totalPuzzles": 50
+ },
+ {
+  "id": "spring",
+  "order": 7,
+  "title": "Easter Morning and Spring",
+  "description": "Lilies, tulips and blossoming countryside on Easter morning.",
+  "firstLevel": 301,
+  "lastLevel": 350,
+  "cover": "assets/thumbnails/collections/spring.webp",
+  "totalPuzzles": 50
+ },
+ {
+  "id": "nature",
+  "order": 8,
+  "title": "Easter Flowers, Lambs and Nature",
+  "description": "Lambs in meadows, spring rabbits and gardens in full bloom.",
+  "firstLevel": 351,
+  "lastLevel": 400,
+  "cover": "assets/thumbnails/collections/nature.webp",
+  "totalPuzzles": 50
+ },
+ {
+  "id": "easter",
+  "order": 9,
+  "title": "Colorful Easter and Family Celebrations",
+  "description": "Painted eggs, baskets, festive tables and cheerful villages.",
+  "firstLevel": 401,
+  "lastLevel": 450,
+  "cover": "assets/thumbnails/collections/easter.webp",
+  "totalPuzzles": 50
+ },
+ {
+  "id": "landscapes",
+  "order": 10,
+  "title": "Peaceful Landscapes and Scenic Wonders",
+  "description": "Mountains, lakes and coastlines rich with detail for big puzzles.",
+  "firstLevel": 451,
+  "lastLevel": 500,
+  "cover": "assets/thumbnails/collections/landscapes.webp",
+  "totalPuzzles": 50
+ }
+]
